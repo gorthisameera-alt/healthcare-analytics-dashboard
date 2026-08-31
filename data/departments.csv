@@ -1,0 +1,7 @@
+department_id,department_name,service_type
+D01,Emergency Department,Emergency
+D02,Cardiology,Inpatient
+D03,Orthopedics,Inpatient
+D04,General Medicine,Inpatient
+D05,Obstetrics & Gynecology,Inpatient
+D06,Outpatient Clinic,Outpatient
